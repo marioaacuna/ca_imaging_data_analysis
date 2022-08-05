@@ -1,0 +1,6 @@
+Log changes
+2022.03.02 -  initComponents_residual_parallel.m -> line 145, 242, 244 -> added lines to debug in case of too many neurons
+		   -  deconvTemporal.m 					 ->  line 21:26, 27, 62, 64
+
+2022.03.14 - extract_DF_F ->line 46. DF/Fo Extraction does not work for batch data, so I removed the background pixel fluorescence
+		          -> line 70

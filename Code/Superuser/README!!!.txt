@@ -1,0 +1,1 @@
+Scripts in this folder are ony intended for superusers, that is, those users that know what they are doing and have administrator rights over code, data and database. If you are not such a user, please do not run any of these scripts.
